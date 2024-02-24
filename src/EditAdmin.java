@@ -86,7 +86,7 @@ public class EditAdmin extends javax.swing.JFrame {
         });
         getContentPane().add(jButon2, new org.netbeans.lib.awtextra.AbsoluteConstraints(445, 299, 105, 33));
 
-        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Background.jpg"))); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("./Background.jpg"))); // NOI18N
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         pack();
