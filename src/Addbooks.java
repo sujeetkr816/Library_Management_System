@@ -138,7 +138,7 @@ public class Addbooks extends javax.swing.JFrame {
         getContentPane().add(b2, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 360, 100, -1));
         getContentPane().add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(580, 320, -1, -1));
 
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Background.jpg"))); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("./Background.jpg"))); // NOI18N
         getContentPane().add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 700, 430));
 
         pack();
