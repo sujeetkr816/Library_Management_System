@@ -73,7 +73,7 @@ public class RemoveBooks extends javax.swing.JFrame {
         });
         getContentPane().add(b2, new org.netbeans.lib.awtextra.AbsoluteConstraints(470, 310, 118, 41));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Background.jpg"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("./Background.jpg"))); // NOI18N
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 700, 450));
 
         pack();
