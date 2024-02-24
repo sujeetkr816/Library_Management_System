@@ -115,7 +115,7 @@ public class DASHBOARD extends javax.swing.JFrame {
         });
         getContentPane().add(b7, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 390, -1, -1));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Dashboard (2).jpg"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("./Dashboard (2).jpg"))); // NOI18N
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(-20, -260, -1, -1));
 
         pack();
