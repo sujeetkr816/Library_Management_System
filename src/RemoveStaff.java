@@ -72,7 +72,7 @@ public class RemoveStaff extends javax.swing.JFrame {
         });
         getContentPane().add(b2, new org.netbeans.lib.awtextra.AbsoluteConstraints(424, 307, 111, 36));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Background.jpg"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("./Background.jpg"))); // NOI18N
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 700, 450));
 
         pack();
